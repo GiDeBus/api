@@ -184,7 +184,6 @@ DEPENDENCIES
   puma (~> 5.0)
   rails (~> 7.0.4)
   rspec-rails (~> 6.0.0)
-  tzinfo-data
 
 RUBY VERSION
    ruby 2.7.0p0
